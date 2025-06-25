@@ -60,6 +60,10 @@ flutter:
 
   assets:
     - assets/img.jpg
+    - assets/motologo.png
+    - assets/moto.png
+    - assets/bgimg.jpg
+    - assets/piston.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
